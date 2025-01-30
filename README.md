@@ -1,1 +1,1 @@
-# Web-fundamentals-workshop---GDG-Tech-Days
+# Web fundamentals workshop GDG Tech Days
